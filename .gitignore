@@ -1,0 +1,13 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Compiled class files
+*.class
+out/
+build/
+
+# OS generated files
+.DS_Store
+Thumbs.db
